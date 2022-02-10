@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "prender a usar git y demas herramientas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aguimoda/Learn-Git.git"
+  },
+  "author": "Aguimoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aguimoda/Learn-Git/issues"
+  },
+  "homepage": "https://github.com/Aguimoda/Learn-Git#readme"
+}
